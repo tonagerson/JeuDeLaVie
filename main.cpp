@@ -1,6 +1,5 @@
 #include "gui.h"
 
- 
 
 bool MyApp::OnInit() {
     Fenetre* fenetre = new Fenetre(wxT("Jeu de la Vie - Automate de Conway"));
